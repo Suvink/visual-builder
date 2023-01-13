@@ -1,0 +1,7 @@
+.tooltip-subtitle{
+    font-size: 12px !important;
+}
+.view-mode-buttons{
+    display: flex;
+    flex-direction: row;
+}
